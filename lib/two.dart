@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:new_notepad/config.dart';
 import 'package:new_notepad/main.dart';
 import 'package:new_notepad/mynote.dart';
+import 'package:new_notepad/one.dart';
 import 'package:sqflite/sqflite.dart';
 
 class two extends StatefulWidget {

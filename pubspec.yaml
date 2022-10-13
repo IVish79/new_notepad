@@ -37,6 +37,7 @@ dependencies:
   animations:
   sqflite:
   path:
+  lottie: 
 
 dev_dependencies:
   flutter_test:
